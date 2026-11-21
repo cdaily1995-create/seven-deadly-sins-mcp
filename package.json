@@ -1,6 +1,6 @@
 {
   "name": "seven-deadly-sins-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "mcpName": "io.github.cdaily1995-create/seven-deadly-sins-mcp",
   "description": "MCP server that returns the 21 statements of the 7 Deadly Sins Test with its 7-point scale and scoring rules.",
   "type": "module",

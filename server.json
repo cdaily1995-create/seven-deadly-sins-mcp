@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.cdaily1995-create/seven-deadly-sins-mcp",
   "description": "Serves the 21 questions of the 7 Deadly Sins Test with its 7-point scale and scoring rules.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://7deadlysinstest.info/",
   "repository": {
     "url": "https://github.com/cdaily1995-create/seven-deadly-sins-mcp",
@@ -12,7 +12,7 @@
     {
       "registryType": "npm",
       "identifier": "seven-deadly-sins-mcp",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "transport": {
         "type": "stdio"
       }
